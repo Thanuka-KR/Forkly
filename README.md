@@ -81,6 +81,47 @@ webapp/
 └── assets/
 
 
+## 📸 Screenshots
+
+### Home Page
+
+![home1](screenshots/home1.png)
+![home2](screenshots/home2.png)
+
+### Login
+
+![Login](screenshots/login.png)
+
+### Menu
+
+![Menu](screenshots/menu.png)
+
+### Order 
+
+![Order](screenshots/order.png)
+
+### Cart 
+
+![Cart](screenshots/cart.png)
+
+### Payment
+
+![Payment](screenshots/payment.png)
+
+### Admin Dashboard
+
+![Admin](screenshots/admindashboard.png)
+
+### Notification
+
+![Notification](screenshots/notification.png)
+
+### Delivery Driver's Dashboard
+
+![Delivery](screenshots/delivery.png)
+
+
+
 
 ## 📈 Future Improvements
 
