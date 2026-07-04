@@ -42,8 +42,8 @@ This application was developed by a team of **6 members** as part of a Software 
 
 ### Frontend
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * JSP
 
